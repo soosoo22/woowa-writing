@@ -215,7 +215,7 @@ const App = () => {
 };
 ```
 
-# 참고
+## 참고
 
 - [리액트 공식 문서 - Suspense](https://ko.react.dev/reference/react/Suspense)
 - https://github.com/reactwg/react-18/discussions/37
